@@ -21,4 +21,6 @@ The folder structure is as follows:
    - Barron's CD
    - Kaplan's practice sets  
 
+## [Vocab: Quizlet sets](https://quizlet.com/ad4548/folders/barrons-word-list/sets)
+
 ### Hope this helps! Feel free to add on to this resource collection to help out others :smile:
